@@ -1,0 +1,2 @@
+intro f b a
+apply f a b
