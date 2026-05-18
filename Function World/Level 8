@@ -1,0 +1,2 @@
+intro g f a
+apply g (f a)
