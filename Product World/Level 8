@@ -1,0 +1,2 @@
+intro f
+exact ⟨fun x => (f x).1, fun x => (f x).2⟩
