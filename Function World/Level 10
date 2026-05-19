@@ -1,0 +1,4 @@
+intro h g
+apply h
+intro k
+exact k g
