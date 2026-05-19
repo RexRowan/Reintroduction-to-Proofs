@@ -1,0 +1,2 @@
+intro f ⟨a, b⟩
+exact f a b
