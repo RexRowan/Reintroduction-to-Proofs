@@ -1,0 +1,2 @@
+intro ⟨g, h⟩ x
+exact ⟨g x, h x⟩
