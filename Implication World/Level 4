@@ -1,0 +1,3 @@
+have q : Q := h1 p
+have r : R := h2 q
+exact r
