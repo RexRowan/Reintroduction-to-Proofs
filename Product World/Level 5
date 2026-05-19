@@ -1,0 +1,5 @@
+constructor
+intro ⟨⟨a, b⟩, c⟩
+exact ⟨a, b, c⟩
+intro ⟨a, b, c⟩
+exact ⟨⟨a, b⟩, c⟩
