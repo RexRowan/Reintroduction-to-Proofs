@@ -1,0 +1,2 @@
+intro f g h k ⟨a, b, c, d, e⟩
+exact ⟨h a (f ⟨b, d⟩), (g e).1, k c (g e).2⟩
